@@ -1,0 +1,16 @@
+h1 {
+  color: red;
+}
+
+h2 {
+  /* valores de: 0 - 255 */
+  /* color: rgb(92, 84, 194); */
+  color: rgba(92, 84, 194, 0.2);
+}
+
+p {
+  /* 0 - A B C D E F */
+  /* 00 01 02 ... 10 11 12 ... FF */
+  /* color: #ff (rojo) ff (verde) ff (azul); */
+  color: #e8a30c;
+}
