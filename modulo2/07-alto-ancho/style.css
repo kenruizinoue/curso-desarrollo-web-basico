@@ -1,0 +1,11 @@
+.bloque1 {
+  background: red;
+  height: 100px;
+  width: 100px;
+}
+
+.bloque2 {
+  background: green;
+  height: 100px;
+  width: 200px;
+}
