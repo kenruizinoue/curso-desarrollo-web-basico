@@ -1,0 +1,14 @@
+div {
+  background: blueviolet;
+  color: white;
+  /* height: 100px; */
+  /* padding: 50px; */
+
+  /* top right bottom left */
+  /* padding: 20px 50px 20px 50px; */
+
+  /* padding-top: 100px; */
+
+  /* top-bottom right-left */
+  padding: 20px 40px;
+}
