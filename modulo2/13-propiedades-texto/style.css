@@ -1,0 +1,15 @@
+h1 {
+  font-size: 50px;
+  font-family: "Srisakdi", cursive;
+  /* para Arial => 100-600 700-900; */
+  /* font-weight: normal; => 400 */
+  /* font-weight: bold; => 700 */
+  font-style: normal;
+  text-transform: capitalize;
+  text-align: left;
+}
+
+span {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
