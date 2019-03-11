@@ -1,0 +1,32 @@
+.bloque {
+  width: 100px;
+  height: 100px;
+  background: khaki;
+  margin: 10px;
+}
+
+.borde1 {
+  border: red solid 10px;
+}
+
+.borde2 {
+  border-bottom: red solid 10px;
+  border-top: red solid 10px;
+}
+
+.borde3 {
+  border-color: coral;
+  border-style: solid;
+  border-width: 10px;
+}
+
+.borde4 {
+  border: red solid 10px;
+  border-radius: 10px;
+}
+
+.borde5 {
+  border: red solid 10px;
+  border-bottom-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
