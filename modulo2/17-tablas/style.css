@@ -1,0 +1,25 @@
+table {
+  border-collapse: collapse;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* encabezado */
+th {
+  background: mediumpurple;
+  color: white;
+  border: 1px solid black;
+  padding: 20px;
+}
+
+/* celdas */
+td {
+  background: rgb(164, 151, 191);
+  color: white;
+  border: 1px solid black;
+  padding: 20px;
+  cursor: pointer;
+}
+
+td:hover {
+  background: rgb(64, 47, 160);
+}
