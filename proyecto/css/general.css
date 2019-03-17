@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  background: #eaeaea;
+  font-family: "Roboto", sans-serif;
+}
+
+.tabla-precio {
+  width: 400px;
+  display: inline-block;
+}
+
+.verde-oscuro {
+  background: #5acebd;
+}
+
+.verde-regular {
+  background: #4adbc5;
+}
+
+.verde-claro {
+  background: #03ebc8;
+}

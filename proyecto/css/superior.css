@@ -1,0 +1,29 @@
+.encabezado {
+  height: 40px;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 40px;
+  border-radius: 10px 10px 0 0;
+}
+
+.precio {
+  height: 184px;
+  text-align: center;
+  color: white;
+}
+
+.texto-precio-regular {
+  font-size: 40px;
+}
+
+.texto-precio-grande {
+  font-size: 100px;
+}
+
+.descripcion-precio {
+  font-style: italic;
+  font-size: 20px;
+  margin-top: 10px;
+}
