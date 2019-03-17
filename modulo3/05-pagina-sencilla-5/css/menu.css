@@ -1,0 +1,31 @@
+#menu {
+  margin: 0 120px;
+  margin-top: 40px;
+}
+
+ul {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+
+a {
+  color: #74dfff;
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+  margin-right: 40px;
+}
+
+a:hover {
+  color: white;
+}
+
+.espacio {
+  width: 30px;
+  display: inline-block;
+}

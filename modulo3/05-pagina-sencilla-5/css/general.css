@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  background-image: url("./../imagenes/fondo.png");
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.flotar-derecha {
+  float: right;
+}
+
+.boton {
+  height: 50px;
+  width: 180px;
+  border-radius: 40px;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 50px;
+  text-align: center;
+  display: inline-block;
+}
+
+.btn-ver1 {
+  border: white 2px solid;
+  color: white;
+}
+
+.btn-ver2 {
+  background: #26c777;
+  color: white;
+}
+
+.btn-ver3 {
+  background: white;
+  color: #01c0c8;
+}
