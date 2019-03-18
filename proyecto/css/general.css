@@ -4,7 +4,15 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+.contenedor-tablas {
+  margin: auto;
+  margin-top: 150px;
+  width: fit-content;
+}
+
 .tabla-precio {
+  margin-right: 50px;
+  margin-left: 50px;
   width: 400px;
   display: inline-block;
 }
@@ -19,4 +27,28 @@ body {
 
 .verde-claro {
   background: #03ebc8;
+}
+
+.azul-oscuro {
+  background: #3bb9cc;
+}
+
+.azul-regular {
+  background: #00c1de;
+}
+
+.azul-claro {
+  background: #54e2f7;
+}
+
+.rojo-oscuro {
+  background: #d1617a;
+}
+
+.rojo-regular {
+  background: #db4a6b;
+}
+
+.rojo-claro {
+  background: #fa6889;
 }
